@@ -17,9 +17,12 @@ Turning design, e-commerce, and code into real digital experiences ✨
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,figma,ps,ai,js,wordpress,vscode,androidstudio,git,github,vercel,windows" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,figma,ps,ai,js,wordpress,vscode,androidstudio,git,github,vercel,windows,unity,godot" />
   <br><br>
-  <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </p>
 
 ---
