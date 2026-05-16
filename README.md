@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋, I'm Peter Helou
 
-<!--
-**Ubiselfs/Ubiselfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Graphic Designer & Developer  
+Turning design, e-commerce, and code into real digital experiences ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌙 About Me
+
+- 🎨 I work with graphic design, branding, posters, packaging, and catalogs  
+- 💻 I build websites and apps using Flutter, Dart, WordPress, and web technologies  
+- 🛒 I have experience in e-commerce, mobile apps, and website management 
+- 🚀 Currently improving my skills in web development, mobile apps, UI/UX, and digital marketing  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,figma,photoshop,wordpress,vscode,androidstudio,git,github,vercel,windows" />
+</p>
+
+---
+
+## 🎯 What I Do
+
+- Graphic Design  
+- Branding & Packaging  
+- Posters & Print Design  
+- Web Development  
+- Mobile App Development  
+- WordPress Websites  
+- E-commerce Management  
+- UI/UX Design  
+
+---
+
+## 📌 Featured Projects
+
+### 🐾 Gorcerly Mobile App
+An e-commerce mobile app graduation project for groceries
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peterhelou58&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peterhelou58&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/peterhelou58">GitHub</a> |
+  <a href="https://www.linkedin.com/in/peter-helou/">LinkedIn</a> |
+  <a href="https://www.behance.net/">Behance</a> |
+  <a href="https://www.instagram.com/peterhelou58/">Instagram</a>
+</p>
