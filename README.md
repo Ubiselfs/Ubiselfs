@@ -1,5 +1,11 @@
 # Hi 👋, I'm Peter Helou
 
+<p align="center">
+  <img src="Github GIF1.gif" width="850" />
+</p>
+
+---
+
 ### Graphic Designer & Developer  
 Turning design and code into real digital experiences ✨
 
