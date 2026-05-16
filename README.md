@@ -1,7 +1,7 @@
 # Hi 👋, I'm Peter Helou
 
 ### Graphic Designer & Developer  
-Turning design, e-commerce, and code into real digital experiences ✨
+Turning design and code into real digital experiences ✨
 
 ---
 
@@ -37,28 +37,29 @@ Turning design, e-commerce, and code into real digital experiences ✨
 
 ## 📌 Featured Projects
 
-### 🐾 Gorcerly Mobile App
+### 🥬 Gorcerly Mobile App
 An e-commerce mobile app graduation project for groceries
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterhelou58&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peterhelou58&theme=tokyonight" />
-</p>
 
 ---
+
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/peterhelou58">GitHub</a> |
-  <a href="https://www.linkedin.com/in/peter-helou/">LinkedIn</a> |
-  <a href="https://www.behance.net/">Behance</a> |
-  <a href="https://www.instagram.com/peterhelou58/">Instagram</a>
+  <a href="https://github.com/peterhelou58" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=github" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+
+  <a href="https://linkedin.com/in/peter-helou/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+
+  <a href="https://instagram.com/peterhelou58/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=instagram" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+
+  <a href="https://behance.net/" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/behance/1769FF" width="48" height="48"/>
+  </a>
 </p>
