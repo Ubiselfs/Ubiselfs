@@ -13,7 +13,7 @@ Turning design and code into real digital experiences ✨
 
 ## 🌙 About Me
 
-- 🎨 I work with graphic design, branding, posters, packaging, and catalogs  
+- 🎨 I work in graphic design
 - 💻 I build websites and apps using Flutter, Dart, WordPress, and web technologies  
 - 🛒 I have experience in e-commerce, mobile apps, and website management 
 - 🚀 Currently improving my skills in web development, mobile apps, UI/UX, and digital marketing  
@@ -23,7 +23,7 @@ Turning design and code into real digital experiences ✨
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,figma,ps,ai,ae,pr,js,wordpress,vscode,androidstudio,git,github,vercel,windows,unity,godot" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,figma,ps,ai,js,wordpress,vscode,androidstudio,git,github,vercel,windows" />
 </p>
 
 ---
@@ -31,17 +31,14 @@ Turning design and code into real digital experiences ✨
 ## 🎯 What I Do
 
 - Graphic Design  
-- Branding & Packaging  
-- Posters & Print Design  
 - Web Development  
 - Mobile App Development  
 - WordPress Websites  
-- E-commerce Management  
 - UI/UX Design  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Current Projects
 
 ### 🥬 Gorcerly Mobile App
 An e-commerce mobile app graduation project for groceries
